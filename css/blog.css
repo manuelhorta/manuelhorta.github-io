@@ -390,6 +390,9 @@ margin-bottom:0;
   border-radius: 70px;
   -moz-border-radius: 70px;
   -webkit-border-radius: 70px;
+ /* transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);*/
   margin-right: 50px;
   margin-bottom:10px;
   max-width: 200px;
